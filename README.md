@@ -95,8 +95,8 @@ npm start
 🛠️ Cấu Hình Môi Trường
 Tạo file .env trong thư mục backend/ với nội dung:
 
-```
-.env
+
+# .env
 MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
