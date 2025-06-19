@@ -81,13 +81,13 @@ Backend (port 5000):
 ```
 cd backend
 npm start
-```
+
 Frontend (port 3000):
 
 ```
 cd frontend
 npm start
-```
+
 
 Ứng dụng sẽ chạy tại: http://localhost:3000
 
@@ -102,7 +102,6 @@ EMAIL_PASS=your_app_password
 JWT_SECRET_KEY=your_secret_key
 PAYPAL_CLIENT_ID=your_paypal_client_id
 PAYPAL_CLIENT_SECRET=your_paypal_secret
-```
 
 🛑 Không commit file .env lên GitHub!
 
