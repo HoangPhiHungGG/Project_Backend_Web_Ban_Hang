@@ -78,9 +78,10 @@ npm install
 ▶️ Khởi chạy ứng dụng
 Backend (port 5000):
 
-```
-cd backend
+
+# cd backend
 npm start
+
 
 Frontend (port 3000):
 
