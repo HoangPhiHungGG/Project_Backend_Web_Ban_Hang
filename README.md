@@ -83,14 +83,17 @@ cd backend
 npm start
 ```
 Frontend (port 3000):
+
 ```
 cd frontend
 npm start
 ```
+
 Ứng dụng sẽ chạy tại: http://localhost:3000
 
 🛠️ Cấu Hình Môi Trường
 Tạo file .env trong thư mục backend/ với nội dung:
+
 ```
 .env
 MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/?retryWrites=true&w=majority
@@ -100,6 +103,7 @@ JWT_SECRET_KEY=your_secret_key
 PAYPAL_CLIENT_ID=your_paypal_client_id
 PAYPAL_CLIENT_SECRET=your_paypal_secret
 ```
+
 🛑 Không commit file .env lên GitHub!
 
 👨‍💻 Tác Giả
