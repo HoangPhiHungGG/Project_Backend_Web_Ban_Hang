@@ -85,8 +85,8 @@ npm start
 
 Frontend (port 3000):
 
-```
-cd frontend
+
+# cd frontend
 npm start
 
 
